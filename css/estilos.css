@@ -1,0 +1,4 @@
+body, header, nav, .contenedor, footer {
+    max-width: 97%;
+    margin: auto;
+}  

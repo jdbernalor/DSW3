@@ -33,13 +33,33 @@ nav{
     padding: 1%;
 }
 
-.contenedor{    
+.contenedor{ 
+    display: inline-block;   
     text-align: center;    
 }
 
 .pdf{
     text-align: center;
     width: auto;
+}
+
+.cont {
+    width:100%;
+    display: block;
+    text-align: center;
+    align-items: center;
+    align-content: flex-start;
+    margin: auto;
+}
+
+.central1{   
+ 
+    display: inline-block;
+    align-items: center;
+    text-align: justify;
+    max-width: 100%;
+    padding: 1%;
+
 }
 
 

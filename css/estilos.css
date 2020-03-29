@@ -14,6 +14,7 @@ body{
 
 /* ######################### Nav ###################################*/
 nav{
+    
     width:98%;
     display: flow-root;
     align-items: center;
@@ -49,11 +50,17 @@ aside{
 
 /* ######################### Footer ###################################*/
 footer{
+    
+    
     text-align: center;
+   
+    
 
 }
 
 footer a{
+    
+    
     color: white;
 
     background-color: #005883;
